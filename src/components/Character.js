@@ -10,7 +10,7 @@ function Character(props){
 			<h3>Superpower: {props.power}</h3>
 			<h3>Age: {props.age}</h3>
 			<h3>Special Movies:</h3>
-			<h3>{props.moves}</h3>
+			<h3>{props.moves + "\n"}</h3>
 		</div>
 
 	)
