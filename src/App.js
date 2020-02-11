@@ -33,14 +33,14 @@ function App() {
       power: 'Super Saiyan Blue',
       color: 'blue',
       age: 36,
-      moves: ["Spirit Bomb", "Kaioken", "Kamehameha"]
+      moves: ["Spirit Bomb", "Kaioken", "Fusion"]
     },
     {
       name: 'Gohan',
       power: 'Ultimate Gohan',
       color: 'Purple',
       age: 26,
-      moves: ["Father Son Kamehameha", "Masenko", "Kamehameha"]
+      moves: ["SSJ2", "Masenko", "Great Ape"]
     },
     {
       name: 'Krillin',
